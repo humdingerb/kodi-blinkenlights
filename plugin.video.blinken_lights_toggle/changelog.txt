@@ -1,2 +1,5 @@
+v2.0
+- Changed to run on Raspian
+
 v1.1
-- First release
+- First release (for LibreElec)
