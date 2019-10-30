@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Hyperion Switch
+Comment=Switch Hyperion LEDs on/off
+Type=Application
+Exec=/home/pi/hyperion/blinkenlights_switch.sh
+Terminal=false
